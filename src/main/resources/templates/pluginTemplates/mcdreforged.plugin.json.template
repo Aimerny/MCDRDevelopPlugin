@@ -1,0 +1,12 @@
+{
+  "id": "${}",
+  "version": "1",
+  "name": "aim",
+  "description": {
+    "en_us": "Your Plugin Description",
+    "zh_cn": "你的插件描述"
+  },
+  "author": "1",
+  "link": "Your plugin link",
+  "dependencies": {}
+}

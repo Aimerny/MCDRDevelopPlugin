@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="40" height="40" viewBox="-40 -40 80 80">
+     width="16" height="16" viewBox="-40.0 -40.0 80 80">
     <defs>
     </defs>
     <path d="M0,-40 L34.64101615,-20 L34.64101615,20 L25.98076211,15 L25.98076211,-15 L0,-30 Z" fill="#FAC00F" />

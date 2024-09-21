@@ -8,7 +8,7 @@
     <name>MCDRDev</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="bbbxingyu@gmail.com" url="https://aimerny.top">IFS</vendor>
+    <vendor email="bbbxingyu@gmail.com" url="https://github.com/aimerny">Aimerny</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -28,8 +28,8 @@
     <actions>
         <action id="com.github.aimerny.mcdrdev.action.CreatePluginAction"
                 class="com.github.aimerny.mcdrdev.action.CreatePluginAction"
-                text="MCDRAction"
-                description="This is my action">
+                text="MCDR plugin"
+                description="A directory type MCDR plugin">
             <add-to-group group-id="NewGroup" anchor="last" />
         </action>
     </actions>
