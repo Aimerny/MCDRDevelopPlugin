@@ -28,7 +28,7 @@
     <actions>
         <action id="com.github.aimerny.mcdrdev.action.CreatePluginAction"
                 class="com.github.aimerny.mcdrdev.action.CreatePluginAction"
-                text="MCDR plugin"
+                text="MCDR Plugin"
                 description="A directory type MCDR plugin">
             <add-to-group group-id="NewGroup" anchor="last" />
         </action>
